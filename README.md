@@ -7,3 +7,4 @@
 ## Refactor
 
 1. Replaced `<div>` and `<span>` elements with semantic elements like `<header>`, `<aside>`, `<nav>`, `<bdi>`, etc.
+1. Cleaned CSS. Collapsed repetitive selectors and attributes.
